@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 В данном репозитории находится дефолтный конфигурационный файл nginx
 =======
 # rebrain-devops-task1
@@ -52,3 +53,6 @@ Use these steps to clone from SourceTree, our client for using the repository co
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
 >>>>>>> 96633ba977d2a382b27ddeec3d2fd24dbc66133b
+=======
+# rebrain-devops-task1
+>>>>>>> 8f78fa764ff58b201d89da802f632b9740d895e6
